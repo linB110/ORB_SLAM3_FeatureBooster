@@ -14,11 +14,11 @@ added "FeatureBooster.h" from FeatureBooster [FeatureBooster](https://github.com
 2. Tracking.h
 
 3.  Frame.h
-   
+
    3.1 add new class : FeatureBooster
 
    3.2 modified monocular camera Frame constructor
-   
+
    3.3 modified stereo camera Frame constructor
 
 ## Sources
